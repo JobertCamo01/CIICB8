@@ -1,5 +1,5 @@
-package tasksheet121;
-import tasksheet121.DateTask;
+package tasksheet122;
+import tasksheet122.DateTask;
 public class MyDate {
     public static void main(String[] args) {
         DateTask date1 = new DateTask(1, 1, 1978);
